@@ -1,4 +1,4 @@
-# Hi there, I'm [اسمك هنا]! 👋
+# Hi there, I'm Ohood! 👋
 
 ## 🚀 About Me
 I am a passionate software developer dedicated to building efficient solutions and mastering the art of clean code. Currently, I'm focusing on advanced C++ concepts and preparing for a prestigious scholarship to further my technical expertise.
