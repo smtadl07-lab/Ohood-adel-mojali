@@ -1,41 +1,96 @@
-# Hi there, I'm Ohood! 👋
+<div align="center">
 
-## 🚀 About Me
-I am a passionate software developer dedicated to building efficient solutions and mastering the art of clean code. Currently, I'm focusing on advanced C++ concepts and preparing for a prestigious scholarship to further my technical expertise.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+I'am+Ohood,+Welcome+to+my+page.)](https://git.io/typing-svg)  
 
-- 🔭 I’m currently working on: **A Text-Based Adventure Game in C++**
-- 🌱 I’m currently learning: **Algorithms, Data Structures, and OOP**
-- ⚡ Fun fact: I believe that coding is the simplest and most logical language once you master the "Logic".
+<div align="left">
+
+
+<hr>
+
+<pre>
+💻 I am mainly a Backend Developer
+📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
+📝 I have a strong interest in Software Engineering and Design
+🛠️ Currently working on a fintech solution with @PesaLock
+🌱 Learning about efficient designs for scalable systems
+🌟 Main language: Java 😁
+🚩 Interested in Server Side Application development
+😃 I look forward to collaborate on impactful projects
+</pre>
 
 ---
 
-## 🛠 Skills & Tools
+<details>
+<summary>
+Languages and Tools🛠:
+</summary>
+  <br/>
+- Backend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+  </a>
 </p>
 
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
+
+<br/>
+</details>
+
 ---
+<p><img align="center" src="https://streak-stats.demolab.com/?user=sppiyush&" alt="sppiyush" /></p>
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[اكتب_اسم_المستخدم_هنا]&show_icons=true&theme=tokyonight)
+### My Projects ✨:
+  
+<a href="https://github.com/Davekibh/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+</a>
 
----
+<a href="https://github.com/Davekibh/robofriends">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+</a>
 
-## 🏆 Featured Projects
-### 1. [Smart Discount Calculator](link-to-repo)
-A C++ application that calculates product discounts with integrated logic for shipping costs.
+<a href="https://github.com/Davekibh/Picture-Sharing-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+</a>
 
-### 2. [Adventure Game - Coming Soon]
-A logic-based game demonstrating the use of functions and decision-making algorithms.
+<a href="https://github.com/Davekibh/Chat-app">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+</a>
 
----
+<a href="https://github.com/Davekibh/Quiz-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
+</a>
 
-## 📫 How to reach me:
-- **LinkedIn:** [رابط حسابك في لينكد إن]
-- **Email:** [إيميلك الرسمي]
+<a href="https://github.com/Davekibh/Quiz-Admin-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+</a>
 
 ---
 <p align="center">
