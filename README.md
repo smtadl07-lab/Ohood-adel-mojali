@@ -1,12 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+I'am+Ohood,+Welcome+to+my+page.)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=007ACC&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+I'am+Ohood,+Welcome+to+my+page.)](https://git.io/typing-svg)
 
 <div align="left">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<hr>
 
 <pre>
 💻 I am mainly a Backend Developer
@@ -18,9 +17,9 @@
 🚩 Interested in Server Side Application development
 😃 I look forward to collaborate on impactful projects
 </pre>
-ddd
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
----
+<br>
 
 <details>
 <summary>
@@ -65,8 +64,18 @@ Languages and Tools🛠:
 <br/>
 </details>
 
----
-<p><img align="center" src="https://streak-stats.demolab.com/?user=sppiyush&" alt="sppiyush" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=ffffff&title_color=2f80ed&text_color=333333&border_radius=10&hide_border=false" alt="Most Used Languages" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=ffffff&title_color=2f80ed&text_color=333333&icon_color=2f80ed&border_radius=10&hide_border=false" alt="GitHub Stats" />
+  </a>
+</p>
+
+<a href="http://www.github.com/itsmeshibintmz"><img src="https://streak-stats.demolab.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
 ### My Projects ✨:
   
