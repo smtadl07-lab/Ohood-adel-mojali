@@ -8,14 +8,11 @@
 
 
 <pre>
-💻 I am mainly a Backend Developer
-📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
-📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently working on a fintech solution with @PesaLock
+💻 I am IT Student . 
+🎓 Student at Aljeel Aljadeed University 🏛️.
+🛠️ Currently mastering C++, Algorithms, and Problem Solving to build a strong technical foundation.
 🌱 Learning about efficient designs for scalable systems
-🌟 Main language: Java 😁
-🚩 Interested in Server Side Application development
-😃 I look forward to collaborate on impactful projects
+🌟 My gool to be  Full-Stack Developer .
 </pre>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
@@ -23,7 +20,7 @@
 
 <details>
 <summary>
-Languages and Tools🛠:
+<h3>Languages and Tools ✨:</h3> 
 </summary>
   <br/>
 - Backend
@@ -65,18 +62,22 @@ Languages and Tools🛠:
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+### GitHub stats ✨:
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=ffffff&title_color=2f80ed&text_color=333333&border_radius=10&hide_border=false" alt="Most Used Languages" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=ffffff&title_color=2f80ed&text_color=333333&icon_color=2f80ed&border_radius=10&hide_border=false" alt="GitHub Stats" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtadl07-lab&layout=compact&bg_color=ffffff&title_color=2f80ed&text_color=333333&border_radius=10&hide_border=false" alt="Most Used Languages" />
   </a>
 </p>
 
-<a href="http://www.github.com/itsmeshibintmz"><img src="https://streak-stats.demolab.com/?user=itsmeshibintmz&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ohood&background=ffffff&border=ffffff&sideLabels=true&stroke=2f80ed&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed&sideNums=333333&dates=555555" alt="GitHub Streak" />
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+  
 ### My Projects ✨:
   
 <a href="https://github.com/Davekibh/Background-generator">
@@ -103,7 +104,4 @@ Languages and Tools🛠:
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
 </a>
 
----
-<p align="center">
-  "Logic will get you from A to B. Imagination will take you everywhere." - Albert Einstein
-</p>
+
